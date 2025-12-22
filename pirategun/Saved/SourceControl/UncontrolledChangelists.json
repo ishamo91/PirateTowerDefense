@@ -1,0 +1,52 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/UE/pirategun/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"D:/UE/pirategun/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"D:/UE/pirategun/Content/glock/source/ABP_PirateGlock.uasset",
+				"D:/UE/pirategun/Content/Widgets/Textures/whitecrosshair.uasset",
+				"D:/UE/pirategun/Content/Widgets/Textures/barrel.uasset",
+				"D:/UE/pirategun/Content/Widgets/Textures/canon.uasset",
+				"D:/UE/pirategun/Content/Widgets/Textures/gold.uasset",
+				"D:/UE/pirategun/Content/Widgets/Textures/images.uasset",
+				"D:/UE/pirategun/Content/Widgets/W_MainHud.uasset",
+				"D:/UE/pirategun/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5.uasset",
+				"D:/UE/pirategun/Content/glock/source/AM_Glock_Fire.uasset",
+				"D:/UE/pirategun/Content/glock/source/Bullet_9mm_D.uasset",
+				"D:/UE/pirategun/Content/glock/textures/Bullet_9mm_D.uasset",
+				"D:/UE/pirategun/Content/glock/source/Bullet_9mm_D1.uasset",
+				"D:/UE/pirategun/Content/glock/textures/Bullet_9mm_N_tga.uasset",
+				"D:/UE/pirategun/Content/glock/source/Glock.uasset",
+				"D:/UE/pirategun/Content/glock/source/Glock_Anim_Draw.uasset",
+				"D:/UE/pirategun/Content/glock/source/Glock_Anim_Fire.uasset",
+				"D:/UE/pirategun/Content/glock/source/Glock_Anim_Holster.uasset",
+				"D:/UE/pirategun/Content/glock/source/Glock_Anim_Reload.uasset",
+				"D:/UE/pirategun/Content/glock/source/Glock_Anim_ReloadEmpty.uasset",
+				"D:/UE/pirategun/Content/glock/source/Glock_Anim_SlideBack.uasset",
+				"D:/UE/pirategun/Content/glock/textures/Glock_D.uasset",
+				"D:/UE/pirategun/Content/glock/source/Glock_D.uasset",
+				"D:/UE/pirategun/Content/glock/source/Glock_D1.uasset",
+				"D:/UE/pirategun/Content/glock/textures/Glock_N.uasset",
+				"D:/UE/pirategun/Content/glock/source/Glock_PhysicsAsset.uasset",
+				"D:/UE/pirategun/Content/glock/source/Glock_Skeleton.uasset",
+				"D:/UE/pirategun/Content/glock/source/Glove_D.uasset",
+				"D:/UE/pirategun/Content/glock/textures/Glove_D.uasset",
+				"D:/UE/pirategun/Content/glock/source/Glove_D1.uasset",
+				"D:/UE/pirategun/Content/glock/textures/Glove_Gloss.uasset",
+				"D:/UE/pirategun/Content/glock/textures/Glove_N.uasset",
+				"D:/UE/pirategun/Content/glock/textures/Glove_Specular.uasset",
+				"D:/UE/pirategun/Content/glock/textures/Hand_D.uasset",
+				"D:/UE/pirategun/Content/glock/source/Hand_D.uasset",
+				"D:/UE/pirategun/Content/glock/source/Hand_D1.uasset",
+				"D:/UE/pirategun/Content/glock/textures/Hand_Gloss.uasset",
+				"D:/UE/pirategun/Content/glock/textures/Hand_N.uasset",
+				"D:/UE/pirategun/Content/glock/textures/Hand_Specular.uasset",
+				"D:/UE/pirategun/Content/FirstPerson/Input/IMC_Default.uasset"
+			]
+		}
+	]
+}
